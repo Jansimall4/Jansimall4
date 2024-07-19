@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm M. Jansi Rani<br>A passionate developer from India</h1>
+<h1 align="center">Hola 👋, I'm Jansi Rani<br>A passionate developer from India</h1>
 
 ###
 
